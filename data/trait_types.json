@@ -1,0 +1,401 @@
+[
+  {
+    "_traitTypeIndex": 0,
+    "traits": [
+      {
+        "traitName": "Not Burned",
+        "traitType": "burned",
+        "pixels": "",
+        "pixelCount": 0
+      },
+      {
+        "traitName": "Burned",
+        "traitType": "burned",
+        "pixels": "cw41dv41du41dt41ds41cr41bq41br41bs41as41at41co41dp41bt45cs45cv50bv51bu51cu51ct51av41au41ap41bw41",
+        "pixelCount": 24
+      }
+    ]
+  },
+  {
+    "_traitTypeIndex": 1,
+    "traits": [
+      {
+        "traitName": "Astronaut",
+        "traitType": "hat",
+        "pixels": "it00jt00ju00ku00lu00sh00si00sj00sk00sl00sm00sn00so00sp00sq00sr00rs00rt00qu00pu00ou00nu00mu00is00hs00gs00fs00fr00eq00ep00eo00en00em00el00ek00ej00fj00fk00fl00rp00qq00pr00or00nr00mr00lr00kr00jq00jp00ip00ho00hn00gm00fm00fg00fh00fi00gf00gg00he00ie00je00ke00le00me00ne00oe00pe00pf00qf00kt22lt22mt22nt23ot23pt23qt23fo24fp24fq24gp24gq24gr24hq24fn25gn25go25hp25iq25hr25ir26jr26js26ks26ls26ms26rq26ns27os27ps27qs27qr27rr38qg38qh38rh38pg37ph37qi37ri37gh28gi28gj28gk28gl28hm28in28io28hf29hg29hh29hi29hj29hk29hl29pq29oq29nq29mq29lq29kq29op29np29mp29lp29kp29ko29kn29jn29jo29jm29jl29jk29ik29il29im29ij30ii30ih30ig30if30jf30kk30kl30km30ln30lo30kf31lf31mf31jg31jh31ji31jj31kj31lk31ll31lm31mn31nn31no31mo31oo31po31pp31qp31ro32qo32qn32pn32on32om32nm32mm32ml32mk32mj32lj32li32ki32kh32kg32mg32mh32mi32lg32lh32of33nf33pi36pj36qj36qk36ql36rk37rl37rj37rm36rn35og33nh33ni33nj33nk33nl33ng33oh33oi33oj33ok33ol33pk33pl33pm33qm33ss00ht00rg00",
+        "pixelCount": 228
+      },
+      {
+        "traitName": "Bane",
+        "traitType": "hat",
+        "pixels": "if53jf53kf53lf53mf53nf53of53pg53ph53oi53oj53ok53nl53nm53nn53mn53ln53lm53ll53kk53kj53ji53ih53hg53mo53mp53mq53lq53kq53kp53jo53io53hp53hq53hr53ir53is53js53ks53kt53lt53mt53nt53ot53os53ps53qr53qq53qp53nq53oq53op53po53og54ng54nh54oh54ni54nj54nk54mi54mk54ml54mm54jp54jq54jr54pp54pq54ip55iq55kr55lr55ls55ns55nr55or55mr53ms53pr54lk55lj55li55lh55mh55mg55lg55kg55jg55ig55jh55kh55ki55mj55gp53gq53gr53rp53rq53rr53qo53ho53",
+        "pixelCount": 102
+      },
+      {
+        "traitName": "Soldier",
+        "traitType": "hat",
+        "pixels": "it00gs00fs00fr00er00eq00ep00eo00en00em00el00ek00ej00fg00fh00fi00gf00gg00he00gm00gn00gk00hk00ij00ht00pe00ji00hj00ks00jr00iq00hp00go00gh53gi53gj53hi54hh54hg54hf54if54jf54ig55ih55ii55of27pf27pg27nf26ng26og26kh25lh25lg25mg25mf25lf25jg24jh24kf24kg25fn55fo55fp55fq55gq55gr55hq23hr23ir24is24hs24js24gl00gp55lt00kt00jt00mh25nh25oh25ph25ki00li00mj00nk00oj00pi00mi25ni25oi25nj25qi00qj00qk00ql00qg27qh27rg00rh00ri00rs00ss00rl00rk00rj00rr00ie00je00ke00oe00fj53fk53fl53fm53ts00sr00rq00rp00rm00rn00ro00me25ne25md25le25ld00mc00nd00qf00qm00qn00qo00",
+        "pixelCount": 133
+      },
+      {
+        "traitName": "Motorcycle Helmet",
+        "traitType": "hat",
+        "pixels": "it00ju00iu00sh00si00sj00sk00sl00sm00sn00so00sp00sq00sr00rs00rt00gs00fs00fr00er00eq00ep00eo00en00em00el00ek00ej00fj00fk00fl00fm00fg00fh00fi00gf00gg00he00gm00gn00gk00hk00ij00qi00ri00rj00ht00rl43rm43rn43ro43id00jd00kd00ld00md00nd00od00pe00ji00ki00li00mh00nh00oh00ph00hj00qf00rg00rk00jv00kv00lv00mv00nv00ov00pv00ku22lu22mu22nu22ou22pu22ks00jr00iq00hp00go00qv00rv00ru00ss00su00st00gh53gi53gj53hi54hh54hg54hf54if54jf54ie54je54ke54ig55ih55ii55oe27of27pf27pg27qg02qh02rh02ne26nf26ng26og26kh25lh25lg25mg25mf25lf25le25me25jg24jh24kf24qs00rq43rr43kg25fn55fo55fp55fq55gq55gr55hq23hr23ir24is24hs24js24jt24kt24qu00rp43gl00gp55lt00mt00nt00ot00qt00",
+        "pixelCount": 158
+      },
+      {
+        "traitName": "Cheese",
+        "traitType": "hat",
+        "pixels": "he45hf45hg45hh45ih45jh45ji45ki45li45lh45lg45kg45jg45ig45ie45je45jf45ke45le45lf45kf45mf45nf45of45pf45qf45qg45qh45qi45qj45pj45oj45oi45oh45ph45pg45og45mh45nh45ni45mg45pe44oe44ne44me44ld44lc44kc44jc44jd44id44hd44md44nd44od44kd46if46kh46ng46pi46",
+        "pixelCount": 60
+      },
+      {
+        "traitName": "Halo",
+        "traitType": "hat",
+        "pixels": "gc50hc50hb50ib51id51kd50ld50md50nd50qc50kb50lb50mb50nb50ob51pb51pd52od51hd51jd50jb50",
+        "pixelCount": 21
+      },
+      {
+        "traitName": "Elvis",
+        "traitType": "hat",
+        "pixels": "kg00kh00hf00he00hd00ic00jc00kc00ld00md00ne00oe00pf00id00ke00le00me00kd00jd00qg00qh00qi00qj00gf00gg00gh00gi00gj00hh00hi00hj00ph00ge00jg00lg00mg00ng00og00pg00of00nf00mf00lf00kf00gd00hc00ib00jb00kb00lc00mc00nd00od00pe00qe00qf00pd00nc00ie42if42ig42ih42je42jf42hg42",
+        "pixelCount": 65
+      },
+      {
+        "traitName": "Construction Hat",
+        "traitType": "hat",
+        "pixels": "pg56pf56oe56nd56md57ne57of57og57qh57ph57oh57nh57mh57lh57kh57jh57ih57hh57ji58ki58li58mi58ni58oi58pi58nf58ng58me58mf58mg58if58ig58je58lf58kf58kg58lg58le58ld58jf44jg44kd44ke44",
+        "pixelCount": 43
+      },
+      {
+        "traitName": "Karate Kid",
+        "traitType": "hat",
+        "pixels": "kf12jg12kh12mh12ng12mf12pg12oh12lf60lg60lh60kg60mg60jf60ig60jh60nf60og60nh60ih12hg12if12he00ie00je00ke00le00me00ne00oe00pe00of00pf00id00jd00kd00ld00md00nd00od00kc00lc00mc00nc00hh60ph60hf00qg00",
+        "pixelCount": 48
+      },
+      {
+        "traitName": "No Hat",
+        "traitType": "hat",
+        "pixels": "",
+        "pixelCount": 0
+      }
+    ]
+  },
+  {
+    "_traitTypeIndex": 2,
+    "traits": [
+      {
+        "traitName": "Handlebar",
+        "traitType": "whiskers",
+        "pixels": "jq00ir00hr00hs00gs00fs00ft00et00dt00cs00cr00dq00pq00qr00rr00rs00ss00st00tt00ut00vs00vr00uq00iq00qq00",
+        "pixelCount": 25
+      },
+      {
+        "traitName": "No Whiskers",
+        "traitType": "whiskers",
+        "pixels": "",
+        "pixelCount": 0
+      },
+      {
+        "traitName": "Big Whiskers",
+        "traitType": "whiskers",
+        "pixels": "pp00qp00ro00sn00rq00sr00jp00io00hn00iq00hr00tn00um00tr00us00gr00fs00fn00gn00",
+        "pixelCount": 19
+      },
+      {
+        "traitName": "Tiny Whiskers",
+        "traitType": "whiskers",
+        "pixels": "jp00io00iq00op00po00pq00",
+        "pixelCount": 6
+      },
+      {
+        "traitName": "Whiskers",
+        "traitType": "whiskers",
+        "pixels": "pp00qp00ro00sn00rq00sr00jp00io00hn00iq00hr00",
+        "pixelCount": 11
+      }
+    ]
+  },
+  {
+    "_traitTypeIndex": 3,
+    "traits": [
+      {
+        "traitName": "Gold Chain",
+        "traitType": "neck",
+        "pixels": "hv44iw44kw44lv44jw44",
+        "pixelCount": 5
+      },
+      {
+        "traitName": "Fancy",
+        "traitType": "neck",
+        "pixels": "hw39iv39jw39kv39lw39",
+        "pixelCount": 5
+      },
+      {
+        "traitName": "Red Necklace",
+        "traitType": "neck",
+        "pixels": "kw41jw41iw41lv41hv41",
+        "pixelCount": 5
+      },
+      {
+        "traitName": "Black Necklace",
+        "traitType": "neck",
+        "pixels": "kw00jw00iw00hv00lv00",
+        "pixelCount": 5
+      },
+      {
+        "traitName": "Plain",
+        "traitType": "neck",
+        "pixels": "",
+        "pixelCount": 0
+      }
+    ]
+  },
+  {
+    "_traitTypeIndex": 4,
+    "traits": [
+      {
+        "traitName": "Jim Dangles",
+        "traitType": "earrings",
+        "pixels": "el44dm44en44do44ep44fo44sk44tl44sm44rn44so44tn44eo46sn46",
+        "pixelCount": 14
+      },
+      {
+        "traitName": "Bar",
+        "traitType": "earrings",
+        "pixels": "ek42el42em42",
+        "pixelCount": 3
+      },
+      {
+        "traitName": "Flower",
+        "traitType": "earrings",
+        "pixels": "ek39ej18fk18el18dk18",
+        "pixelCount": 5
+      },
+      {
+        "traitName": "Stud",
+        "traitType": "earrings",
+        "pixels": "ei00",
+        "pixelCount": 1
+      },
+      {
+        "traitName": "None",
+        "traitType": "earrings",
+        "pixels": "",
+        "pixelCount": 0
+      }
+    ]
+  },
+  {
+    "_traitTypeIndex": 5,
+    "traits": [
+      {
+        "traitName": "VR Goggles",
+        "traitType": "eyes",
+        "pixels": "jm00om00ll31ml31nl31lj00lk00mk00nk00ok00oj00nj00mj00on00nn00mn00ln00lm00mm00nm00kn42jn42in42im42il42ik42ij42jj42kj42kk42jk42jl00kl00km00ol00qj00qk00ql00qm00qn00rk00rl00rm00hk00hl00hm00pj42pk42pl42pm42pn42hj30rj30jh12kh12lh12mh12nh12oh12ph12io38jo38ko38lo38mo38no38oo38po38qo38rn38sm38sl38sk38gk38gl38gm38hn38ii38ji38ki38li38mi38ni38oi38pi38qi38gj38hi38ri38sj38",
+        "pixelCount": 90
+      },
+      {
+        "traitName": "3D Glasses",
+        "traitType": "eyes",
+        "pixels": "sl38pl41ql41rl41ol41nl38ml38ll38jl40kl40gj38hj38ij38jj38kj38lj38mj38nj38oj38pj38qj38rj38sj38hk40hl40il40ik40jk40kk40ok41pk41qk41rk41gk38gl38gm38hm38im38jm38km38lk38mk38nk38om38pm38qm38rm38sm38sk38lm38nm38",
+        "pixelCount": 51
+      },
+      {
+        "traitName": "Sunglasses",
+        "traitType": "eyes",
+        "pixels": "qk00sl00sm00sn00ro00qo00po00oo00nn00nm00ml00lm00ln00nk00ok00pk00lk00kk00jk00ik00hk00gk00ko00jo00io00ho00hl36il36jl36kl36ll36hn36in36jn36kn36nl36ol36pl36ql36rl36on36pn36qn36rn36km29jm29im29hm29rm29qm29pm29om29sk00gn00gm00gl00rk00",
+        "pixelCount": 57
+      },
+      {
+        "traitName": "Closed",
+        "traitType": "eyes",
+        "pixels": "km47jm47pm47om47lm47",
+        "pixelCount": 5
+      },
+      {
+        "traitName": "Crazy",
+        "traitType": "eyes",
+        "pixels": "jl00kl38jm01km01ol01pm00pl01om12",
+        "pixelCount": 8
+      },
+      {
+        "traitName": "Bandit Mask",
+        "traitType": "eyes",
+        "pixels": "jm00om00gn42hn42hm42hl42hk42hj42gk42gl42gm42ij42ii42jh42kh42lh42mh42nh42oh42in43jn43kn43ln43mn43nn43on43pn43qn43qm43ql43qk43qj43pj43pi43oi43ni43mi43li43ki43ji43jj43kj43lj43mj43nj43oj43pk43ok43nk43mk43lk43kk43jk43ik43il43im43ml43mm43nm43nl43ll43lm43km25pm25kl55jl55pl55ol55",
+        "pixelCount": 68
+      },
+      {
+        "traitName": "Crosseyed",
+        "traitType": "eyes",
+        "pixels": "km00om00jm38pm38jl01kl01ol01pl01",
+        "pixelCount": 8
+      },
+      {
+        "traitName": "Looking Up",
+        "traitType": "eyes",
+        "pixels": "kl00pl00jl38ol38jm01km01om01pm01",
+        "pixelCount": 8
+      },
+      {
+        "traitName": "Looking Left",
+        "traitType": "eyes",
+        "pixels": "kl01jl01ol01pl01jm00om00km38pm38",
+        "pixelCount": 8
+      },
+      {
+        "traitName": "Looking Right",
+        "traitType": "eyes",
+        "pixels": "pm00km00jm38om38kl01jl01ol01pl01",
+        "pixelCount": 8
+      }
+    ]
+  },
+  {
+    "_traitTypeIndex": 6,
+    "traits": [
+      {
+        "traitName": "Small Frown",
+        "traitType": "mouth",
+        "pixels": "os39ms39nr39ns38",
+        "pixelCount": 4
+      },
+      {
+        "traitName": "Big Frown",
+        "traitType": "mouth",
+        "pixels": "os39ks39lr39mr39nr39",
+        "pixelCount": 5
+      },
+      {
+        "traitName": "Big Smile",
+        "traitType": "mouth",
+        "pixels": "ns39or39nr38kr39ls39ms39lr38mr38",
+        "pixelCount": 8
+      },
+      {
+        "traitName": "Straight",
+        "traitType": "mouth",
+        "pixels": "mr39nr39or39",
+        "pixelCount": 3
+      },
+      {
+        "traitName": "Small Smile",
+        "traitType": "mouth",
+        "pixels": "ns39or39mr39nr38",
+        "pixelCount": 4
+      },
+      {
+        "traitName": "Smile",
+        "traitType": "mouth",
+        "pixels": "ns39or39nr38ns39or39nr38ms39lr39mr38",
+        "pixelCount": 9
+      },
+      {
+        "traitName": "Frown",
+        "traitType": "mouth",
+        "pixels": "os39nr39ns38mr39ls39ms38",
+        "pixelCount": 6
+      }
+    ]
+  },
+  {
+    "_traitTypeIndex": 7,
+    "traits": [
+      {
+        "traitName": "No Nose",
+        "traitType": "nose",
+        "pixels": "",
+        "pixelCount": 0
+      },
+      {
+        "traitName": "Dark",
+        "traitType": "nose",
+        "pixels": "mo00no00",
+        "pixelCount": 2
+      },
+      {
+        "traitName": "Big",
+        "traitType": "nose",
+        "pixels": "mo03no04mn03nn04",
+        "pixelCount": 4
+      },
+      {
+        "traitName": "Tiny",
+        "traitType": "nose",
+        "pixels": "no03",
+        "pixelCount": 1
+      },
+      {
+        "traitName": "Normal",
+        "traitType": "nose",
+        "pixels": "mo03no04",
+        "pixelCount": 2
+      }
+    ]
+  },
+  {
+    "_traitTypeIndex": 8,
+    "traits": [
+      {
+        "traitName": "gL1tCh3D",
+        "traitType": "character",
+        "pixels": "bh00fe00hg00vh00lv00lw00eu00ev00ds00dr00cr00cq00bo00co00do00eb02fb02fa02kb02lb02lc02ld02rq02po02oo02vn02un02um02uk02hu00hv00hw00bh00cg00de00fe00hg00if00of00pg00uf00vh00lv00lw00iv01iw01ht01hs01hk01hj01hh01ih01ig01jg01mg01og01qg01qh01qj01qk01rj01ug01uh01ff01ef01df01ek01dg03di03fj03ri03fg04kh02lh02oh02ph02pj02pn02po02os02oo02ol02oi02mr02mq02mo02mn02mk02mj02mi02lj02lk02ln02lo02lq02lr02ls02kr02ko02kn02kk02ji02jl02jo02jr02is02ij02it02kt02kv02kw02jw02rd00cc01dc01qc01rc01ha00hc00cj00bi00bh00cg00de00fe00hg00kf00of00re00uf00vg00vh00ui00rk00qn00qq00qr00qs00nu00mu00lv00lw00eu00ev00ds00dr00cr00cq00bo00co00do00eb02fb02fa02kb02lb02lc02ld02rq02rp02po02oo02vn02un02um02uk02oa00nc00oc00pc00vp00up00en01eo01ep01fn02fo02fp02fq02fk02fl02fm02sl02sm02sn02so02sp02sq02tp00to00tn00undefinedk00tl00ul00vl00wl00ak00bk00ck00dk00",
+        "pixelCount": 200
+      },
+      {
+        "traitName": "Irradiated",
+        "traitType": "character",
+        "pixels": "hu00hv00hw00gt00gs00gr00gq00gp00go00gn00gm00gl00gk00fl00el00dk00cj00bi00bh00cg00cf00de00ee00fe00gf00hg00if00jf00kf00lf00mf00nf00of00pg00qf00re00se00te00uf00vg00vh00ui00tj00sk00rk00ql00qm00qn00qo00qp00qq00qr00qs00pt00ou00nu00mu00lu00lv00lw00iu01iv01iw01ht01hs01hr01hq01hp01ho01hn01hm01hl01hk01hj01hi01hh01ih01ig01jg01kg01lg01mg01ng01og01qg01qh01qi01qj01qk01rj01sj01ti01ug01uh01tf01sf01rf01ff01ef01df01ch01ci01dj01ek01fk01dg03dh03di03ej03fj03gj03tg03th03si03ri03eg04fg04gg04gh04gi04eh04fh04fi04ei04rg04sg04sh04rh04jh02kh02lh02mh02nh02oh02ph02pi02pj02pk02pl02pm02pn02po02pp02pq02pr02ps02os02or02oq02op02oo02on02om02ol02ok02oj02oi02ni02nj02nk02nl02nm02nn02no02np02nq02nr02ns02ms02mr02mq02mp02mo02mn02mm02ml02mk02mj02mi02li02lj02lk02ll02lm02ln02lo02lp02lq02lr02ls02ks02kr02kq02kp02ko02kn02km02kl02kk02kj02ki02ji02jj02jk02jl02jm02jn02jo02jp02jq02jr02js02is02ir02iq02ip02io02in02im02il02ik02ij02ii02it02jt02kt02lt02mt02nt02ot02ju02ku02kv02kw02jw02jv02mw15mv15nv15ov15pv15pu15qu15qt15rt15rs15rr15rq15rp15ro15rn15rm15rl15sl15tl15tk15uk15uj15vj15vi15wi15wh15wg15wf15vf15ve15ue15ud15td15sd15rd15qd15qe15pf15pe15oe15ne15me15le15ke15je15ie15he15hf15ge15gd15fd15ed15dd15cd15ce15be15bf15bg15ag15ah15ai15aj15bj15bk15ck15cl15dl15dm15em15fm15fn15fo15fp15fq15fr15fs15ft15fu15gu15gv15gw15",
+        "pixelCount": 317
+      },
+      {
+        "traitName": "Alvin",
+        "traitType": "character",
+        "pixels": "lw18lv18lu18mu18nu18ou18pu18qt18rs18sr18sq18sp18ro18qn18qm18ql18rk18sj18ti18uh18ug18uf18ue18td18sd18re18qf18pg18of18hw18hv18hu18gt18fs18er18eq18ep18fo18gn18gm18gl18fk18ej18di18ch18cg18cf18ce18dd18ed18fe18gf18hg18if18jf18kf18lf18mf18nf18ju21ku21kv21kw21jw21jv21iu20iv20iw20ht20gs20fp20fq20fr20go20hn20hm20hl20hk20hj20hi20hh20ih20ig20jg20kg20lg20mg20ng20og20te20tf20tg20th20si20rj20de20df20dg20dh20ei20fj20gh19gi19gj19gk19gg19ff19ee19qk19qj19qi19qh19qg19rf19se19it21jt21kt21lt21mt21nt21ot21pt21hs21is21js21ks21ls21ms21ns21os21ps21qs21gr21hr21ir21jr21kr21lr21mr21nr21or21pr21qr21rr21rq21qq21pq21oq21nq21mq21lq21kq21jq21iq21hq21gq21gp21hp21ip21jp21kp21lp21mp21np21op21pp21qp21rp21qo21po21oo21no21mo21lo21ko21jo21io21ho21in21jn21kn21ln21mn21nn21on21pn21pm21om21nm21mm21lm21km21jm21im21il21jl21kl21ll21ml21nl21ol21pl21pk21ok21nk21mk21lk21kk21jk21ik21ij21jj21kj21lj21mj21nj21oj21pj21pi21oi21ni21mi21li21ki21ji21ii21jh21kh21lh21mh21nh21oh21ph21eg03eh03fh03fi03rh03ri03sg03sh03ef04fg04rg04sf04",
+        "pixelCount": 246
+      },
+      {
+        "traitName": "Matthias",
+        "traitType": "character",
+        "pixels": "hu00hv00hw00gt00gs00gr00gq00gp00go00gn00gm00gl00gk00fl00el00dk00cj00bi00bh00cg00cf00de00ee00fe00gf00hg00if00jf00kf00lf00mf00nf00of00pg00qf00re00se00te00uf00vg00vh00ui00tj00sk00rk00ql00qm00qn00qo00qp00qq00qr00qs00pt00ou00nu00mu00lu00lv00lw00dg03dh03di03ej03fj03gj03tg03th03si03ri03eg04fg04gg04gh04gi04eh04fh04fi04ei04rg04sg04sh04rh04iu62iv62iw62ht62hs62hr62hq62hp62ho62hn62hm62hl62hk62hj62hi62hh62ih62ig62jg62kg62lg62mg62ng62og62qg62qj62qk62ii61ij61ik61il61im61in61io61ip61iq61ir61is61it61jt61js61jr61jq61jp61jo61jn61jm61jl61jk61jj61ji61jh61ju61jv61jw61kw61kv61ku61kt61ks61kr61kq61kp61ko61kn61km61kl61kk61lk61lj61li61lh61kh61ki61kj61mh61nh61oh61oi61oj61ph61pi61pj61pk61pl61pm61pn61po61pp61pq61pr61ps61os61ns61ms61ls61lt61mt61nt61ot61or61oq61op61oo61on61om61ol61ok61nj61ni61nk61nl61nm61nn61no61np61nq61nr61mr61mq61mp61mo61mn61mm61ml61mk61mj61mi61ll61lm61ln61lo61lp61lq61lr61qh62qi62fk62ek62dj62ci62ch62df62ef62ff62rj62sj62ti62uh62ug62tf62sf62rf62",
+        "pixelCount": 236
+      },
+      {
+        "traitName": "Simon",
+        "traitType": "character",
+        "pixels": "lw18lv18mu18nu18ou18pt18ql18qm18qn18qo18qp18qq18qr18qs18rk18sj18ti18uh18ug18uf18ue18sd18re18qf18pg18of18if18jf18kf18lf18mf18nf18hg18gf18fe18ed18ce18cf18cg18ch18di18ej18fk18gl18gm18gn18go18gp18gq18gr18gs18gt18gg19gh19gi19gj19gk19ee19ff19qg19qh19qi19qj19qk19rf19se19ht20hs20hr20hq20hp20ho20hn20hm20hl20hk20hj20hi20hh20ih20ig20jg20kg20lg20mg20ng20og20te20tf20tg20th20si20rj20de20df20dg20dh20ei20fj20ef04fg04sf04rg04eg03eh03fh03fi03rh03ri03sg03sh03it21is21ir21iq21ip21io21in21im21il21ik21ij21ii21ji21jh21kh21lh21mh21nh21oh21ph21pi21pj21pk21pl21pm21pn21po21pp21pq21pr21ps21os21ot21nt21mt21lt21kt21jt21ju21jv21jw21kw21kv21ku21ks21kr21kq21kp21ko21kn21km21kl21kk21kj21ki21jj21jk21jl21jm21jn21jo21jp21jq21jr21js21ls21lr21lq21lp21lo21ln21lm21ll21lk21lj21li21mi21mj21mk21ml21mm21mn21mo21mp21mq21mr21ms21ns21nr21nq21np21no21nn21nm21nl21nk21nj21ni21oi21oj21ok21ol21om21on21oo21op21oq21or21lu21iu20iv20iw20hu18hv18hw18dd18td18",
+        "pixelCount": 228
+      },
+      {
+        "traitName": "Templeton",
+        "traitType": "character",
+        "pixels": "hu00hv00hw00gt00gs00gr00gq00gp00go00gn00gm00gl00gk00fl00el00dk00cj00bi00bh00cg00cf00de00ee00fe00gf00hg00if00jf00kf00lf00mf00nf00of00pg00qf00re00se00te00uf00vg00vh00ui00tj00sk00rk00ql00qm00qn00qo00qp00qq00qr00qs00pt00ou00nu00mu00lu00lv00lw00iu13iv13iw13ht13hs13hr13hq13hp13ho13hn13hm13hl13hk13hj13hi13hh13ih13ig13jg13kg13lg13mg13ng13og13qg13qh13qi13qj13qk13rj13sj13ti13ug13uh13tf13sf13rf13ff13ef13df13ch13ci13dj13ek13fk13dg03dh03di03ej03fj03gj03tg03th03si03ri03eg04fg04gg04gh04gi04eh04fh04fi04ei04rg04sg04sh04rh04jh14kh14lh14mh14nh14oh14ph14pi14pj14pk14pl14pm14pn14po14pp14pq14pr14ps14os14or14oq14op14oo14on14om14ol14ok14oj14oi14ni14nj14nk14nl14nm14nn14no14np14nq14nr14ns14ms14mr14mq14mp14mo14mn14mm14ml14mk14mj14mi14li14lj14lk14ll14lm14ln14lo14lp14lq14lr14ls14ks14kr14kq14kp14ko14kn14km14kl14kk14kj14ki14ji14jj14jk14jl14jm14jn14jo14jp14jq14jr14js14is14ir14iq14ip14io14in14im14il14ik14ij14ii14it14jt14kt14lt14mt14nt14ot14ju14ku14kv14kw14jw14jv14",
+        "pixelCount": 236
+      },
+      {
+        "traitName": "Reepicheep",
+        "traitType": "character",
+        "pixels": "hu00hv00hw00gt00gs00gr00gq00gp00go00gn00gm00gl00gk00fl00el00dk00cj00bi00bh00cg00cf00de00ee00fe00gf00hg00if00jf00kf00lf00mf00nf00of00pg00qf00re00se00te00uf00vg00vh00ui00tj00sk00rk00ql00qm00qn00qo00qp00qq00qr00qs00pt00ou00nu00mu00lu00lv00lw00iu07iv07iw07ht07hs07hr07hq07hp07ho07hn07hm07hl07hk07hj07hi07hh07ih07ig07jg07kg07lg07mg07ng07og07qg07qh07qi07qj07qk07rj07sj07ti07ug07uh07tf07sf07rf07ff07ef07df07ch07ci07dj07ek07fk07dg03dh03di03ej03fj03gj03tg03th03si03ri03eg04fg04gg04gh04gi04eh04fh04fi04ei04rg04sg04sh04rh04jh08kh08lh08mh08nh08oh08ph08pi08pj08pk08pl08pm08pn08po08pp08pq08pr08ps08os08or08oq08op08oo08on08om08ol08ok08oj08oi08ni08nj08nk08nl08nm08nn08no08np08nq08nr08ns08ms08mr08mq08mp08mo08mn08mm08ml08mk08mj08mi08li08lj08lk08ll08lm08ln08lo08lp08lq08lr08ls08ks08kr08kq08kp08ko08kn08km08kl08kk08kj08ki08ji08jj08jk08jl08jm08jn08jo08jp08jq08jr08js08is08ir08iq08ip08io08in08im08il08ik08ij08ii08it08jt08kt08lt08mt08nt08ot08ju08ku08kv08kw08jw08jv08",
+        "pixelCount": 236
+      },
+      {
+        "traitName": "Jerry",
+        "traitType": "character",
+        "pixels": "hu00hv00hw00gt00gs00gr00gq00gp00go00gn00gm00gl00gk00fl00el00dk00cj00bi00bh00gf00hg00if00jf00kf00lf00mf00nf00of00pg00qf00vg00vh00ui00tj00sk00rk00ql00qm00qn00qo00qp00qq00qr00qs00pt00ou00nu00mu00lu00lv00lw00dg03dh03di03ej03fj03gj03tg03th03si03ri03eg04fg04gg04gh04gi04eh04fh04fi04ei04rg04sg04sh04rh04iv64iw64iu64ht64hs64hr64hq64hp64ho64hn64hm64hl64hk64hj64hi64hh64ig64jg64kg64lg64mg64ng64og64qg64qh64qi64qj64qk64jw63jv63ju63jt63js63jr63jq63jp63jo63jn63jm63jl63jk63jj63ji63jh63ih63ii63ij63ik63il63im63in63io63ip63iq63ir63is63it63kw63kv63ku63kt63ks63kr63kq63kp63ko63kn63km63kl63kk63kj63ki63kh63lh63mh63nh63oh63ph63pi63pj63pk63pl63pm63pn63po63pp63pq63pr63ps63os63ns63ms63ls63lr63lq63lp63lo63lm63ll63lk63lj63li63mi63ni63oi63oj63ok63ol63om63on63oo63op63oq63or63nr63nq63mq63mp63mo63mn63mm63ml63mk63mj63nj63nk63nl63nm63nn63no63np63ln63mr63lt63mt63nt63ot63fk64ek64dj64ch64ci64ug64uh64ti64sj64rj64dd00ed00fd00rd00sd00td00qe00ue00ce00ge00bg00vf00ef04ff04bf00cf64cg64uf64df03de64ee64fe64re64se64te64tf03sf04rf04",
+        "pixelCount": 249
+      },
+      {
+        "traitName": "Stuart",
+        "traitType": "character",
+        "pixels": "hu00hv00hw00gt00gs00gr00gq00gp00go00gn00gm00gl00gk00fl00el00dk00cj00bi00bh00cg00cf00de00ee00fe00gf00hg00if00jf00kf00lf00mf00nf00of00pg00qf00re00se00te00uf00vg00vh00ui00tj00sk00rk00ql00qm00qn00qo00qp00qq00qr00qs00pt00ou00nu00mu00lu00lv00lw00iu11iv11iw11ht11hs11hr11hq11hp11ho11hn11hm11hl11hk11hj11hi11hh11ih11ig11jg11kg11lg11mg11ng11og11qg11qh11qi11qj11qk11rj11sj11ti11ug11uh11tf11sf11rf11ff11ef11df11ch11ci11dj11ek11fk11dg03dh03di03ej03fj03gj03tg03th03si03ri03eg04fg04gg04gh04gi04eh04fh04fi04ei04rg04sg04sh04rh04jh12kh12lh12mh12nh12oh12ph12pi12pj12pk12pl12pm12pn12po12pp12pq12pr12ps12os12or12oq12op12oo12on12om12ol12ok12oj12oi12ni12nj12nk12nl12nm12nn12no12np12nq12nr12ns12ms12mr12mq12mp12mo12mn12mm12ml12mk12mj12mi12li12lj12lk12ll12lm12ln12lo12lp12lq12lr12ls12ks12kr12kq12kp12ko12kn12km12kl12kk12kj12ki12ji12jj12jk12jl12jm12jn12jo12jp12jq12jr12js12is12ir12iq12ip12io12in12im12il12ik12ij12ii12it12jt12kt12lt12mt12nt12ot12ju12ku12kv12kw12jw12jv12",
+        "pixelCount": 236
+      },
+      {
+        "traitName": "Common",
+        "traitType": "character",
+        "pixels": "hu00hv00hw00gt00gs00gr00gq00gp00go00gn00gm00gl00gk00fl00el00dk00cj00bi00bh00cg00cf00de00ee00fe00gf00hg00if00jf00kf00lf00mf00nf00of00pg00qf00re00se00te00uf00vg00vh00ui00tj00sk00rk00ql00qm00qn00qo00qp00qq00qr00qs00pt00ou00nu00mu00lu00lv00lw00iu01iv01iw01ht01hs01hr01hq01hp01ho01hn01hm01hl01hk01hj01hi01hh01ih01ig01jg01kg01lg01mg01ng01og01qg01qh01qi01qj01qk01rj01sj01ti01ug01uh01tf01sf01rf01ff01ef01df01ch01ci01dj01ek01fk01dg03dh03di03ej03fj03gj03tg03th03si03ri03eg04fg04gg04gh04gi04eh04fh04fi04ei04rg04sg04sh04rh04jh02kh02lh02mh02nh02oh02ph02pi02pj02pk02pl02pm02pn02po02pp02pq02pr02ps02os02or02oq02op02oo02on02om02ol02ok02oj02oi02ni02nj02nk02nl02nm02nn02no02np02nq02nr02ns02ms02mr02mq02mp02mo02mn02mm02ml02mk02mj02mi02li02lj02lk02ll02lm02ln02lo02lp02lq02lr02ls02ks02kr02kq02kp02ko02kn02km02kl02kk02kj02ki02ji02jj02jk02jl02jm02jn02jo02jp02jq02jr02js02is02ir02iq02ip02io02in02im02il02ik02ij02ii02it02jt02kt02lt02mt02nt02ot02ju02ku02kv02kw02jw02jv02",
+        "pixelCount": 236
+      }
+    ]
+  }
+]
